@@ -3,7 +3,7 @@
 *[Deutsch](#deutsch) below.*
 
 Transport adapter of [Access Explorer (ACCX)](https://github.com/MDJoerg/abap-accx-base) for the
-older [abap-ai/mcp](https://github.com/abap-ai/mcp) MCP SDK (classes `ZAGP_MCP_*`). ABAP package
+older [abap-ai/mcp](https://github.com/abap-ai/mcp) MCP SDK (package `ZMCP1`). ABAP package
 `ZACCX_MCP1`.
 
 The adapter is a **variant** with the same features as [abap-accx-mcp2](https://github.com/MDJoerg/abap-accx-mcp2):
@@ -32,7 +32,7 @@ together) is documented in **[abap-accx-base](https://github.com/MDJoerg/abap-ac
 ## Deutsch
 
 Transport-Adapter von [Access Explorer (ACCX)](https://github.com/MDJoerg/abap-accx-base) für das
-ältere MCP-SDK [abap-ai/mcp](https://github.com/abap-ai/mcp) (Klassen `ZAGP_MCP_*`).
+ältere MCP-SDK [abap-ai/mcp](https://github.com/abap-ai/mcp) (Paket `ZMCP1`).
 ABAP-Paket `ZACCX_MCP1`.
 
 Der Adapter ist eine **Variante** mit denselben Funktionen wie
