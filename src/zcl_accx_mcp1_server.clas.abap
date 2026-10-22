@@ -1,5 +1,5 @@
 "! <p class="shorttext synchronized">Access Explorer: MCP server (mcp v1 adapter)</p>
-"! The only class that knows the mcp (v1) SDK, ZAGP_MCP_*. It maps neutral tool,
+"! The only class that knows the mcp (v1) SDK, package ZMCP1. It maps neutral tool,
 "! prompt and resource descriptors and results to the SDK and contains no
 "! business logic. The server profile is the lower case 'area/server' of
 "! the ZMCP_SERVERS registration, so the class can be registered several times
